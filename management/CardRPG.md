@@ -97,8 +97,8 @@
 			- Pause Menu
 				- Accessible from Overworld, Battle scenes.
 				- Can quit the game or access Options Menu.
-		3. LAN Multiplayer
-			- Networking team's input here <----
+		3. Multiplayer
+			- Playable online card battle
 		4. Meet Minimum Card Goals 
 			- 12 standard attack cards
 			- 6 status attack cards
