@@ -88,6 +88,32 @@
 1. 12/1 - 12/7
 	* Manager: Emilio Filippi
 	* Goals:
-		1. GOALHERE
-		...
+		1. Complete Minimax with Alpha Beta pruning algorithim and integrate with AI decision making.
+			- The cards played by the AI are decided by Minimax with Alpha Beta pruning 
+		2. User Interface
+			- Options Menu
+				- Accessible from the Main Menu and Pause Menu.
+				- Adjust in-game volume.
+			- Pause Menu
+				- Accessible from Overworld, Battle scenes.
+				- Can quit the game or access Options Menu.
+		3. LAN Multiplayer
+			- Networking team's input here <----
+		4. Meet Minimum Card Goals 
+			- 12 standard attack cards
+			- 6 status attack cards
+			- 7 defend cards
+			- 4 heal cards
+			- 3 distinct status effects
+		5. Stretch Goals (if time allows)
+			- Additional Map
+				- Same dimensions as original map
+				- Allows players to 'rematch' previous enemies
+				- Difficulty increased to scale with player's adventure
+			- Advanced Card System
+				- Mulligan system
+				- Card Graveyard
+				- 2 new status effects
+				- 10 additional cards
+
 
