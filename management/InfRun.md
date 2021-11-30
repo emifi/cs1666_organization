@@ -84,5 +84,9 @@
 1. 12/1 - 12/7
 	* Manager: Drew Wiesen
 	* Goals:
-		1. GOALHERE
+		1. - Physics handling of new terrain types (continuation) 
+		2. Fine tuning of control point generation 
+		3. Pretty up UIs 		
+		4. Points given for actions (flips, etc)
+		5. QA Testing and fixes
 		...
