@@ -89,4 +89,4 @@
 		3. Pretty up UIs 		
 		4. Points given for actions (flips, etc)
 		5. QA Testing and fixes
-		...
+		6. pretty up UIs
