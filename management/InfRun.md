@@ -84,9 +84,13 @@
 1. 12/1 - 12/7
 	* Manager: Drew Wiesen
 	* Goals:
-		1. - Physics handling of new terrain types (continuation) 
+		1. - Physics handling of new terrain types (continuation)
+			-Asphalt, Sand and Water handling for friction differances and bouyancy 	 
 		2. Fine tuning of control point generation 
-		3. Pretty up UIs 		
+			-Easier passing of control points from one TerrainSegment to another	 
+		3. Pretty up UIs 
+			-display score after game ends			
 		4. Points given for actions (flips, etc)
+			-Base points on distance travelled not time survivecd
+			-Reward for significant action like flips
 		5. QA Testing and fixes
-		6. pretty up UIs
