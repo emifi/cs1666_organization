@@ -94,3 +94,5 @@
 			-Base points on distance travelled not time survivecd
 			-Reward for significant action like flips
 		5. QA Testing and fixes
+		6. Bezier Curve Implementation
+			-Continued from last week
