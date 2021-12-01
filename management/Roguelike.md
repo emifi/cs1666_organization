@@ -94,6 +94,11 @@
 1. 12/1 - 12/7
 	* Manager: Yihua Pu
 	* Goals:
-		1. GOALHERE
-		...
+		1. Add one more enemy with an accompanying ability
+		2. Add heavy crates that are harder for the player to push around
+		3. Add explosive barrels that create projectiles that bounce and deal damage
+		4. Integrate the physics engine with the main game
+		5. Add a "Warrior" slime class
+		6. Add a persistent currency and unlockable items using that currency
+		7. Clean up code and polish game
 
