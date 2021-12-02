@@ -85,4 +85,5 @@
 		3. Physics:
 			- Implement ellipsoid collisions
 			- Implement stretch goals (dash, throwable potions)
+			- Implement proper collisions for the box
 
