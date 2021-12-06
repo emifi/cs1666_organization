@@ -78,6 +78,12 @@
 1. 12/1 - 12/7
 	* Manager: Bryce Anderson
 	* Goals:
-		1. GOALHERE
-		...
+		1. General: 	
+		 	- Continue to Identify and Fix Bugs
+		2. Networking:
+			- Have a playable multiplayer map
+		3. Physics:
+			- Implement ellipsoid collisions
+			- Implement stretch goals (dash, throwable potions)
+			- Implement proper collisions for the box
 
